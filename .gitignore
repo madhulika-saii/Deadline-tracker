@@ -1,0 +1,13 @@
+.streamlit/secrets.toml
+credentials.json
+token.json
+client_secret*.json
+client_secret.json
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.DS_Store
+Thumbs.db
